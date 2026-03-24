@@ -21,6 +21,7 @@ This repository contains small but structured applications built to develop prac
 
     app_name/
         main_file
+        README_app.md
 
 ## Focus Areas
 
